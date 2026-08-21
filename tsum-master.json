@@ -7848,5 +7848,15 @@
       "ピーター・パン"
     ],
     "releaseDate": "2026-08-13"
+  },
+  {
+    "id": "t756",
+    "name": "テストツム",
+    "category": "プレミアム",
+    "reading": "てすとつむ",
+    "series": [
+      "ミッキー＆フレンズ"
+    ],
+    "releaseDate": null
   }
 ]
